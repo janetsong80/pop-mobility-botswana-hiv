@@ -1,4 +1,4 @@
-# CODE for processing raw IPUMS data, Aggregates district movements
+# CODE for processing raw IPUMS data, aggregates district movements
 # For eLife publication 'The role of migration networks in the development of Botswana's generalized HIV epidemic'
 # Author: Janet Song
 # Last updated: 15 August 2023
